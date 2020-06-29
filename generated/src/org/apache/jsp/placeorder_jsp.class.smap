@@ -1,0 +1,16 @@
+SMAP
+placeorder_jsp.java
+JSP
+*S JSP
+*F
++ 0 placeorder.jsp
+placeorder.jsp
++ 1 logo.html
+logo.html
+*L
+5,15:52
+1#1,5:67
+19#0,2:72
+21,40:75
+60,4:115
+*E
